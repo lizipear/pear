@@ -240,9 +240,8 @@ h5, h6          { font-weight: bolder }
     margin: 0px;
     padding: 0px;
     z-index: -9999;
-    background: #50cda7 url('https://ae01.alicdn.com/kf/Ha2aad637c9f648028be7b7afad17574cN.jpg') no-repeat;
-    background-position: center 0;
-
+    background: #000000;
+    /* background-position: center 0; */
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -278,7 +277,7 @@ h5, h6          { font-weight: bolder }
     text-align: center;
     text-transform: uppercase;
     font-family: 'Lato-Regular', Arial;
-    color: #ff0000;
+    color: #ffffff;
     font-weight: normal!important;
 }
 
@@ -287,11 +286,10 @@ h5, h6          { font-weight: bolder }
     width: 100%;
     text-align: center;
     font-family: 'Lato-Bold', Arial;
-    margin: 0.25em 0 0.5em 0; 
+    margin: 0.25em 0 0.5em 0;
     font-weight: bold;
     color: #ff0000;
     font-size: 40px;
-
 }
 
 
